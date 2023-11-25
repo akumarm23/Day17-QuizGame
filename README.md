@@ -1,9 +1,8 @@
 # Quiz Trivia Game v1.0
 
-![GitHub](https://img.shields.io/github/license/your-username/your-repository?style=flat-square) 
-![GitHub](https://img.shields.io/badge/python-3.8-blue.svg?style=flat-square) 
-![GitHub release 1.0](https://img.shields.io/github/v/release/akumarm23/Day17-QuizGame
-?style=flat-square)
+[![MIT License](https://img.shields.io/badge/license-MIT-orange.svg)](LICENSE)
+[![Python 3.8](https://img.shields.io/badge/python-3.8-brightblue.svg)](https://www.python.org/downloads/release/python-380/)
+[![Version 1.0](https://img.shields.io/badge/version-1.0-darkgreen.svg)](https://github.com/your-username/your-repository/releases/tag/v1.0)
 
 ## Overview
 
